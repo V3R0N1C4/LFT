@@ -1,0 +1,5 @@
+read(a);
+for(> a 6) do{
+assign [0 to a];
+print(a)
+}
