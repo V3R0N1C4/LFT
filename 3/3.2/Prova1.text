@@ -1,0 +1,8 @@
+read(x,y,z);
+
+if(> x y)
+
+if(> x y) print(x) else print(z) end
+else
+if(> yz ) print(y) else print(z) end
+end
